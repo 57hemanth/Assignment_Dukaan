@@ -1,18 +1,4 @@
-import { IoIosArrowDown } from "react-icons/io";
 import NishyanLogo from "../assets/nishyan-logo.jpg";
-import { GoHome } from "react-icons/go";
-import { LuClipboardList } from "react-icons/lu";
-import { PiSquaresFourLight } from "react-icons/pi";
-import { CiDeliveryTruck } from "react-icons/ci";
-import { HiOutlineSpeakerWave } from "react-icons/hi2";
-import { TbBrandGoogleAnalytics } from "react-icons/tb";
-import { MdPayments } from "react-icons/md";
-import { PiNavigationArrow } from "react-icons/pi";
-import { CiDiscount1 } from "react-icons/ci";
-import { TbUsers } from "react-icons/tb";
-import { IoMdColorPalette } from "react-icons/io";
-import { TbBrandSupabase } from "react-icons/tb";
-import { CiWallet } from "react-icons/ci";
 
 export default function SideBar(){
 
